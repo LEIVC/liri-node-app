@@ -1,0 +1,93 @@
+User Command: node liri.js spotify-this-song New Rules 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: New Rules
+Artist: Dua Lipa
+Album: New Rules
+Preview Here: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null
+
+User Command: node liri.js spotify-this-song Rude
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Rude
+Artist: Magic!
+Album: Don't Kill The Magic
+Preview Here: https://p.scdn.co/mp3-preview/40c87bb00fe6bab71f758643b2d1e598c5374410?cid=null
+
+User Command: node liri.js spotify-this-song Toxic 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Toxic
+Artist: Britney Spears
+Album: In The Zone
+Preview Here: https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=null
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Thu Apr 12 09:20:40 +0000 2018
+Tweet content: "And I knew exactly what to do. But in a much more real sense, I had no idea what to do."
+------------------------
+Created on: Thu Apr 12 09:24:13 +0000 2018
+Tweet content: "I am Beyoncé, always."
+------------------------
+Created on: Thu Apr 12 09:28:36 +0000 2018
+Tweet content: "The worst thing about prison was the Dementors. They were flying all over the place and they were scary and they'd come down and they'd suck the soul out of your body and it hurt!"
+------------------------
+Created on: Tue Apr 10 17:25:27 +0000 2018
+Tweet content: "There were these huge bins of clothes and everybody was rifling through them like crazy. And I grabbed one and it fit! So I don't think that this is totally just a woman's suit. At the very least it's bisexual."
+------------------------
+Created on: Tue Apr 10 17:23:30 +0000 2018
+Tweet content: "Sometimes I'll start a sentence and I don't even know where it's going. I just hope I find it along the way."
+------------------------
+Created on: Wed Apr 4 12:20:47 +0000 2018
+Tweet content: "Webster's Dictionary defines wedding as: The fusing of two metals with a hot torch."
+------------------------
+Created on: Wed Apr 4 06:29:53 +0000 2018
+Tweet content: "If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice."
+------------------------
+Created on: Wed Apr 4 06:35:32 +0000 2018
+Tweet content: "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js movie-this The Notebook
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Notebook
+Year Released: 25 Jun 2004
+IMBD Rating: 7.9
+Country Produced: USA
+Language: English
+Plot: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.
+Actors: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner
+Rotten Tomatoes Rating: 5.7
+Rotten Tomatoes URL: https://www.rottentomatoes.com/m/notebook
+
+User Command: node liri.js do-what-it-says
+
